@@ -70,3 +70,14 @@ input:focus {
 p {
     padding-top: 30px;
 }
+
+@media (max-width: 991px) {
+
+    img {
+        height: 50vh;
+    }
+    h1 {
+        color: black;
+    }
+
+}
